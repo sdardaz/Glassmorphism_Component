@@ -27,7 +27,6 @@ Once the component is imported, you can customize its properties to achieve the 
 - **BorderColor**: Set the border color.
 - **BorderRadius**: Adjust the border radius.
 - **BorderThickness**: Set the border thickness.
-- **WebkitBackdropFilter**: Adjust the webkit backdrop filter.
 
 **Example:**
 
@@ -36,9 +35,8 @@ Once the component is imported, you can customize its properties to achieve the 
 - **BorderColor**: rgba(0, 0, 0, 0.5)
 - **BorderRadius**:0
 - **BorderThickness**: 1
-- **WebkitBackdropFilter**: 10
 
 ## Contributing
 
 
-I’d really appreciate your help growing this repo. Got a reusable component in mind? Send us an issue or a pull request!
+I’d really appreciate your help growing this repo. Got a reusable component in mind? Send me an issue or a pull request!
